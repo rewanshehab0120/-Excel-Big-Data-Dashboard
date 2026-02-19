@@ -10,7 +10,7 @@ Instead of relying on traditional worksheets, I leveraged **Data Model and Power
 ## 🖼 Dashboard Preview
 ![Dashboard Preview](Slide1.PNG)
 
-> Replace the image path above with your actual dashboard image path.
+
 
 ---
 
